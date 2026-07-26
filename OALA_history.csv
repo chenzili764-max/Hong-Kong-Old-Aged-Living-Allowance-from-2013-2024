@@ -1,0 +1,27 @@
+﻿OALA_history,,,,,
+Effective_Date,Allowance_Type,Monthly_Amount_HKD,Asset_Limit_Single_HKD,Asset_Limit_Couple_HKD,Event_Notes
+2012-12-01,OALA,2200,,,Scheme effective date (retroactive); limits announced when applications opened
+2013-04-01,OALA,2200,193000,292000,Scheme formally launched
+2014-02-01,OALA,2285,201000,304000,First adjustment based on price index; subsequent annual adjustment cycle set
+2015-02-01,OALA,2390,210000,318000,Annual adjustment
+2016-02-01,OALA,2495,219000,332000,Annual adjustment
+2017-02-01,OALA,2565,225000,341000,Annual adjustment
+2017-05-01,Normal_OALA,2565,329000,499000,Original allowance renamed Normal rate; asset limit raised
+2017-05-01,Higher_OALA,3435,144000,218000,Introduction of Higher Old Age Living Allowance (retroactive)
+2018-02-01,Normal_OALA,2600,334000,506000,Annual adjustment
+2018-02-01,Higher_OALA,3485,146000,221000,Annual adjustment
+2018-06-01,Higher_OALA,3485,146000,221000,Higher allowance officially implemented (retroactive to 1 May 2017)
+2019-02-01,Normal_OALA,2675,343000,520000,Annual adjustment
+2019-02-01,Higher_OALA,3585,150000,227000,Annual adjustment
+2020-02-01,Normal_OALA,2770,355000,539000,Annual adjustment
+2020-02-01,Higher_OALA,3715,155000,235000,Annual adjustment
+2020-07-01,Normal_OALA,2690,355000,539000,Second adjustment within same year after February increase
+2020-07-01,Higher_OALA,3715,155000,235000,Second adjustment within same year
+2021-02-01,Normal_OALA,2845,365000,554000,Annual adjustment
+2021-02-01,Higher_OALA,3815,159000,241000,Annual adjustment
+2022-02-01,Normal_OALA,2920,374000,568000,Annual adjustment
+2022-02-01,Higher_OALA,3915,163000,247000,Annual adjustment
+2022-09-01,Unified_OALA,3915,374000,568000,Normal and Higher rates merged; unified at higher payment using normal asset limit
+2023-02-01,Unified_OALA,4060,388000,589000,First annual adjustment after merger
+2024-02-01,Unified_OALA,4195,401000,608000,Annual adjustment
+2025-02-01,Unified_OALA,4250,406000,616000,Annual adjustment
