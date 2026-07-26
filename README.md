@@ -116,3 +116,17 @@ Specific purposes:
 3. Suggestion for work division
 4. Summarize the history of monthly amount and asset limit for single and couple regarding Old Age Living Allowance into a table.
 5. Debugging code
+
+📬 Contact
+For any questions or collaboration opportunities, please reach out:
+
+Email: chenzili764@gmail.com
+
+LinkedIn: linkedin.com/in/zilichen2007
+
+📝 License
+This project is for educational purpose. All rights reserved by the team.
+
+Thank you for visiting our repository! 🙌
+
+
